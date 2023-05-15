@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-mesto-auth/static/css/main.565760e8.css",
+    "main.js": "/react-mesto-auth/static/js/main.9a6765f9.js",
+    "static/js/787.2df4b1c8.chunk.js": "/react-mesto-auth/static/js/787.2df4b1c8.chunk.js",
+    "static/media/Inter-Medium.woff2": "/react-mesto-auth/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/react-mesto-auth/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/react-mesto-auth/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/logo-mesto.svg": "/react-mesto-auth/static/media/logo-mesto.bbe2a6eafac19c3d031c272c424875ca.svg",
+    "static/media/like.svg": "/react-mesto-auth/static/media/like.1ad06e85f169668a1f36.svg",
+    "index.html": "/react-mesto-auth/index.html",
+    "static/media/delete.svg": "/react-mesto-auth/static/media/delete.e3c42771bff3aaa52f76.svg",
+    "static/media/unsuccess-icon.svg": "/react-mesto-auth/static/media/unsuccess-icon.d4ce2a261b68c6da973d.svg",
+    "static/media/success-icon.svg": "/react-mesto-auth/static/media/success-icon.a9eb6caf1da3ff48b215.svg",
+    "static/media/like-active.svg": "/react-mesto-auth/static/media/like-active.35948469632d0421d697.svg",
+    "static/media/hamburger-icon.svg": "/react-mesto-auth/static/media/hamburger-icon.ccf7020248ca1ffd1496.svg",
+    "static/media/pencil.svg": "/react-mesto-auth/static/media/pencil.6c7bf05444b9793fdf6e.svg",
+    "static/media/close-icon.svg": "/react-mesto-auth/static/media/close-icon.039f1f5203f653b4bacd.svg",
+    "static/media/plus.svg": "/react-mesto-auth/static/media/plus.bed8c136e13907f5eefb.svg",
+    "main.565760e8.css.map": "/react-mesto-auth/static/css/main.565760e8.css.map",
+    "main.9a6765f9.js.map": "/react-mesto-auth/static/js/main.9a6765f9.js.map",
+    "787.2df4b1c8.chunk.js.map": "/react-mesto-auth/static/js/787.2df4b1c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.565760e8.css",
+    "static/js/main.9a6765f9.js"
+  ]
+}
